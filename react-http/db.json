@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Learn React",
+      "day": "7th April at 10:00am",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Send Emails",
+      "day": "8th April at 12:00pm",
+      "reminder": false
+    },
+    {
+      "id": 4,
+      "text": "G4G FireSide Chat",
+      "day": "9th April at 3:00pm",
+      "reminder": false
+    },
+    {
+      "text": "Joint Review",
+      "day": "Friday 6th April 11:00am",
+      "reminder": true,
+      "id": 5
+    }
+  ]
+}
